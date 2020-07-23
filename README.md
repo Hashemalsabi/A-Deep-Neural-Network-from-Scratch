@@ -14,7 +14,7 @@ Upon building the helper functions, we test the model using the "Cats Vs No Cats
 The libraries used are simply: 
 - <code> numpy </code> 
 - <code> matplotlib </code> 
-- <code> h5py </code> which mainly used to encode the dataset of images. 
+- <code> h5py </code> which is mainly used to encode the dataset of images. 
 
 It is important to remark that this is mainly motivated from Andrew Ng's course on Deep learning on Coursera. Moreover, there might be some disruptions on the mark up text within the code. 
 This is mainly an issue from GitHub. To better see the markup text and the notebook, click  <a href="https://nbviewer.jupyter.org/github/Hashemalsabi/A-Deep-Neural-Network-from-Scratch/blob/master/A%20Deep%20NN%20from%20scratch.ipynb"> here. </a> 
